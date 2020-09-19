@@ -1,0 +1,17 @@
+body
+{
+    padding:10px;
+    margin:40px;
+    font-size: 24px;
+    font-family: Helvetica;
+    background-image:url(https://static.nationalgeographic.es/files/styles/image_3200/public/01-hubble-heic1301a.jpg?w=1024&h=576);
+    background-repeat: repeat;
+    color: white;
+}
+
+nav
+{
+    background-color: white;
+    padding: 0px;
+    color:#68b4f2;
+}
